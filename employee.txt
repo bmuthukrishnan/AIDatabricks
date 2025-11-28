@@ -1,0 +1,3 @@
+EmpID 101, Address=New York, Salary 55000
+Employee 102 lives in Los Angeles and earns 62000
+ID=103, Salary=58000, Address - Chicago
